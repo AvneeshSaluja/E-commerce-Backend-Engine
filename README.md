@@ -1,21 +1,21 @@
 # E-commerce-Backend-Engine
 A conceptual RESTful API backend built with Python (Flask/Django) for an e-commerce platform. It provides essential services for user management, product catalog, shopping carts, and order processing, designed for frontend integration.
 
-Features
+Features: 
 User authentication (registration, login, RBAC for customers/admins).
 Product management (CRUD operations).
 Shopping cart functionality (add/remove items, update quantity).
 Order processing and history.
 Stock management and validation.
 
-Technologies
+Technologies: 
 Python 3.x
 Flask / Django (Web Framework)
 PostgreSQL / SQLite (Database)
 SQLAlchemy / Django ORM (ORM)
 bcrypt / Django's hashing (Authentication)
 
-Getting Started
+Getting Started: 
 Clone the repository.
 Create and activate a virtual environment (as above).
 Install dependencies (choose based on Flask or Django):
